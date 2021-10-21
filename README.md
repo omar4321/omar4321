@@ -3,7 +3,7 @@
 ### Hi there, I'm Omar Faruk  👋
 
 
-[![Twitter Follow](https://twitter.com/Omarfar80285883)
+[![Twitter Follow](https://twitter.com/Omarfarruk101)
 
 ## I'm a  student, Developer!!
 
@@ -83,7 +83,7 @@
 
 [website]: 
 
-[twitter]: https://twitter.com/Omarfar80285883
+[twitter]: https://twitter.com/Omarfarruk101
 [youtube]: https://www.youtube.com/channel/UCqWqOR8sQ07Rdmvuiijp7qA
 [instagram]: https://www.instagram.com/omar_faruk_akib1/
 [linkedin]: https://www.linkedin.com/in/omar-faruk-425327202/
